@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "CameraShake.cs.meta": true,
+    "cog.cs.meta": true,
+    "**.meta": true
+  }
+}
